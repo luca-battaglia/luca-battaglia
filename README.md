@@ -1,6 +1,6 @@
 MSc student in Electrical Engineering at ETH Zurich. I work on digital design and computer architecture, from RTL to layout, and on GPU performance: profiling kernels, rewriting them in Triton or CUDA, and explaining where the time goes. This semester I'm a teaching assistant for VLSI 3 (full-custom digital circuit design) at ETH.
 
-Looking for a 2027 internship in RTL/ASIC design, computer architecture or GPU performance, from late February 2027 for up to six months.
+Looking for a 2027 internship in RTL/ASIC design, computer architecture or GPU performance, starting any time from late February 2027, for 3 to 6 months.
 
 #### Selected work
 
